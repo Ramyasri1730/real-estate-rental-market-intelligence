@@ -2,12 +2,15 @@
 
 An end-to-end **Business Intelligence & Data Analytics** project developed using **Microsoft Excel, SQL Server, and Power BI** to analyze UAE real estate rental market data and support data-driven investment decisions.
 
-## 📌 Project Overview
+---
+
+# 📌 Project Overview
 
 This project transforms raw rental property data into interactive dashboards and actionable insights. It enables investors, real estate consultants, and property managers to evaluate rental performance, identify investment opportunities, and monitor market trends through an intuitive Power BI dashboard.
 
+---
 
-## 🎯 Business Objectives
+# 🎯 Business Objectives
 
 - Analyze rental market trends across locations
 - Measure rental price efficiency
@@ -15,7 +18,9 @@ This project transforms raw rental property data into interactive dashboards and
 - Track listing performance and demand
 - Support investment decision-making using interactive dashboards
 
-## 🛠️ Tools & Technologies
+---
+
+# 🛠️ Tools & Technologies
 
 - 📊 Microsoft Power BI
 - 🗃 SQL Server
@@ -23,9 +28,13 @@ This project transforms raw rental property data into interactive dashboards and
 - 📐 DAX
 - 🌍 GitHub
 
-## 📂 Repository Structure
+---
 
+# 📂 Repository Structure
+
+```text
 real-estate-rental-market-intelligence/
+
 │
 ├── data/
 │   ├── dubai_properties Data.xlsx
@@ -55,6 +64,9 @@ real-estate-rental-market-intelligence/
 ├── README.md
 ├── LICENSE
 └── .gitignore
+```
+
+---
 
 # 📊 Dashboard Features
 
@@ -67,6 +79,7 @@ real-estate-rental-market-intelligence/
 - Furnishing Analysis
 - Interactive Filters & Drill-through
 
+---
 
 # 📈 Key Performance Indicators (KPIs)
 
@@ -77,19 +90,19 @@ real-estate-rental-market-intelligence/
 - Average Listing Age
 - Demand Index
 
-
+---
 
 # 📷 Dashboard Preview
 
 ## Executive Dashboard
 
-> *(Upload a screenshot to `assets/executive_dashboard.png` and it will appear here.)*
-
 ![Executive Dashboard](assets/executive_dashboard.png)
 
 ## Location Intelligence Dashboard
 
-![Location Intelligence](assets/location_intelligence.png)
+![Location Intelligence Dashboard](assets/location_intelligence.png)
+
+---
 
 # 📁 Dataset
 
@@ -109,6 +122,8 @@ The dataset contains **73,742 rental property records** with attributes includin
 - Latitude
 - Longitude
 
+---
+
 # 💡 Business Insights
 
 - Identified high-performing rental locations.
@@ -118,7 +133,7 @@ The dataset contains **73,742 rental property records** with attributes includin
 - Visualized geographic rental trends.
 - Supported investment decision-making through KPI dashboards.
 
-
+---
 
 # 📚 Documentation
 
@@ -131,7 +146,7 @@ This repository includes:
 - Power BI Dashboard
 - Data Dictionary
 
-
+---
 
 # 🚀 Getting Started
 
@@ -141,6 +156,7 @@ This repository includes:
 4. Review the project documentation in the `docs` folder.
 5. Explore the interactive dashboard.
 
+---
 
 # ⭐ Skills Demonstrated
 
@@ -155,16 +171,19 @@ This repository includes:
 - KPI Reporting
 - Geospatial Analysis
 
+---
+
 # 📈 Business Questions Answered
 
-✔ Which locations have the highest rental demand?  
+✔ Which locations have the highest rental demand?
 
-✔ What factors influence rental pricing?  
+✔ What factors influence rental pricing?
 
-✔ Which property types provide better investment opportunities?  
+✔ Which property types provide better investment opportunities?
 
 ✔ How does rental price vary across Dubai communities?
 
+---
 
 # 👩‍💻 Author
 
@@ -173,6 +192,10 @@ This repository includes:
 Business Analyst | Data Analyst | Power BI | SQL | Excel
 
 📍 Abu Dhabi, UAE
+
+---
+
+⭐ If you found this project useful, consider giving it a star!
 
 
 ## ⭐ If you found this project useful, consider giving it a star!
