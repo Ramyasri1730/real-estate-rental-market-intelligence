@@ -155,6 +155,16 @@ This repository includes:
 - KPI Reporting
 - Geospatial Analysis
 
+# 📈 Business Questions Answered
+
+✔ Which locations have the highest rental demand?  
+
+✔ What factors influence rental pricing?  
+
+✔ Which property types provide better investment opportunities?  
+
+✔ How does rental price vary across Dubai communities?
+
 
 # 👩‍💻 Author
 
