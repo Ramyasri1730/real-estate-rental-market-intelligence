@@ -144,12 +144,11 @@ The dataset contains **73,742 rental property records** with attributes includin
 
 This repository includes:
 
-- Business Requirement Document (BRD)
-- Functional Requirement Document (FRD)
-- SQL Analysis Queries
-- DAX Measures
-- Power BI Dashboard
-- Data Dictionary
+- [Business Requirement Document (BRD)](docs/BRD_Summary.md)
+- [Functional Requirement Document (FRD)](docs/FRD_Summary.md)
+- [Complete Project Report](docs/BA_Real_Estate_Project_Report.pdf)
+- [Business Questions & Answers](docs/Business_Questions_Answers.md)
+- [Data Dictionary](data/data_dictionary.md)
 
 ---
 
