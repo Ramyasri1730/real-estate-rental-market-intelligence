@@ -37,7 +37,7 @@ real-estate-rental-market-intelligence/
 
 │
 ├── data/
-│   ├── dubai_properties Data.xlsx
+│   ├── dubai_properties_data.xlsx
 │   └── data_dictionary.md
 │
 ├── dashboard/
