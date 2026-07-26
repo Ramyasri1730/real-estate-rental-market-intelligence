@@ -94,6 +94,10 @@ real-estate-rental-market-intelligence/
 
 # 📷 Dashboard Preview
 
+## Dashboard Home
+
+![Dashboard Home](assets/dashboard_home.png)
+
 ## Executive Dashboard
 
 ![Executive Dashboard](assets/executive_dashboard.png)
