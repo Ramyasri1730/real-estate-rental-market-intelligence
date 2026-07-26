@@ -1,0 +1,88 @@
+# 📐 Power BI DAX Measures
+
+This file contains the DAX calculations created for the Rental Market Intelligence & Investment Decision Framework Power BI dashboard.
+
+---
+
+# 📊 KPI Measures
+
+
+## 1. Total Portfolio Value
+
+```DAX
+Total Portfolio Value =
+SUM(rental_data[Rent])
+```
+
+---
+
+## 2. Average Annual Rent
+
+```DAX
+Average Annual Rent =
+AVERAGE(rental_data[Rent])
+```
+
+---
+
+## 3. Average Rent per Sqft
+
+```DAX
+Average Rent per Sqft =
+AVERAGE(rental_data[Rent_per_sqft])
+```
+
+---
+
+## 4. Total Active Listings
+
+```DAX
+Total Active Listings =
+COUNTROWS(rental_data)
+```
+
+---
+
+## 5. Demand Index
+
+```DAX
+Demand Index =
+DIVIDE(
+    COUNTROWS(
+        FILTER(
+            rental_data,
+            rental_data[Demand_Flag] = "High Demand"
+        )
+    ),
+    COUNTROWS(rental_data)
+)
+```
+
+---
+
+## 6. Average Listing Age
+
+```DAX
+Average Listing Age =
+AVERAGE(rental_data[Age_of_listing_in_days])
+```
+
+---
+
+# 📈 Business Usage
+
+These measures support:
+
+- Executive KPI Dashboard
+- Rental Market Analysis
+- Location Intelligence
+- Investment Decision Making
+- Property Performance Tracking
+
+
+# 🛠 Tools Used
+
+- Power BI
+- DAX
+- SQL Server
+- Excel
