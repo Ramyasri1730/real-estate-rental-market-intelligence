@@ -152,19 +152,23 @@ This repository includes:
 
 ---
 
-🗄 SQL Analysis
+# 🗄 SQL Analysis
 
 SQL queries used for rental market analysis:
-Database table creation
-Location-based rental analysis
-Rent per Sqft analysis
-Listing performance analysis
-Investment opportunity identification
-SQL Files
-Create Table
-Analysis Queries
-Investment Selector
----
+
+- Database table creation
+- Location-based rental analysis
+- Rent per sqft analysis
+- Listing performance analysis
+- Investment opportunity identification
+
+
+Files:
+
+- [Create Table](sql/create_table.sql)
+- [Analysis Queries](sql/analysis_queries.sql)
+- [Investment Selector](sql/investment_selector.sql)
+
 📐 DAX Measures
 
 Power BI calculations used for dashboard KPIs and analytics:
