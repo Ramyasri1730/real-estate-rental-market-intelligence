@@ -44,9 +44,10 @@ real-estate-rental-market-intelligence/
 │   └── BA_Real_Estate_Project.pbix
 │
 ├── docs/
-│   ├── BA_Real_Estate_Project_Report.pdf
-│   ├── BRD_Summary.md
-│   └── FRD_Summary.md
+├── BA_Real_Estate_Project_Report.pdf
+├── BRD_Summary.md
+├── FRD_Summary.md
+└── Business_Questions_Answers.md
 │
 ├── sql/
 │   ├── create_table.sql
