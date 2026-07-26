@@ -176,16 +176,16 @@ Files:
 
 Power BI calculations used for dashboard KPIs and analytics:
 
-Total Portfolio Value
-Average Annual Rent
-Average Rent per Sqft
-Total Active Listings
-Demand Index
-Listing Age Analysis
+- Total Portfolio Value
+- Average Annual Rent
+- Average Rent per Sqft
+- Total Active Listings
+- Demand Index
+- Listing Age Analysis
 
 File:
 
-DAX Measures
+- [DAX Measures](dax/dax_measures.md)
 
 ---
 
