@@ -157,14 +157,23 @@ This repository includes:
 SQL queries used for rental market analysis:
 
 Database table creation
+
 Location-based rental analysis
+
 Rent per Sqft analysis
+
 Listing performance analysis
+
 Investment opportunity identification
+
 SQL Files
+
 Create Table
+
 Analysis Queries
+
 Investment Selector
+
 ---
 
 📐 DAX Measures
