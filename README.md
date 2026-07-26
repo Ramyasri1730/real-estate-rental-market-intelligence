@@ -169,7 +169,10 @@ Files:
 - [Analysis Queries](sql/analysis_queries.sql)
 - [Investment Selector](sql/investment_selector.sql)
 
-📐 DAX Measures
+
+---
+
+# 📐 DAX Measures
 
 Power BI calculations used for dashboard KPIs and analytics:
 
