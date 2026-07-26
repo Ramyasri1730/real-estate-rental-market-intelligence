@@ -41,7 +41,7 @@ real-estate-rental-market-intelligence/
 │   └── data_dictionary.md
 │
 ├── dashboard/
-│   └── BA_Real_Estate_Project.pbix
+└── BA_Real_Estate_Project.pbix
 │
 ├── docs/
 ├── BA_Real_Estate_Project_Report.pdf
@@ -186,6 +186,16 @@ Power BI calculations used for dashboard KPIs and analytics:
 File:
 
 - [DAX Measures](dax/dax_measures.md)
+
+---
+
+# 📊 Power BI Dashboard
+
+Power BI report developed to analyze UAE rental market trends, property performance, rental efficiency, and investment opportunities.
+
+File:
+
+- [Open Power BI Dashboard](dashboard/BA_Real_Estate_Project.pbix)
 
 ---
 
