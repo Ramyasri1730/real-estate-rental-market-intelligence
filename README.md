@@ -44,7 +44,7 @@ real-estate-rental-market-intelligence/
 │   └── BA_Real_Estate_Project.pbix
 │
 ├── docs/
-│   ├── BA REAL ESTATE PROJECT (2).pdf
+│   ├── BA_Real_Estate_Project_Report.pdf
 │   ├── BRD_Summary.md
 │   └── FRD_Summary.md
 │
@@ -149,6 +149,38 @@ This repository includes:
 - DAX Measures
 - Power BI Dashboard
 - Data Dictionary
+
+---
+
+🗄 SQL Analysis
+
+SQL queries used for rental market analysis:
+
+Database table creation
+Location-based rental analysis
+Rent per Sqft analysis
+Listing performance analysis
+Investment opportunity identification
+SQL Files
+Create Table
+Analysis Queries
+Investment Selector
+---
+
+📐 DAX Measures
+
+Power BI calculations used for dashboard KPIs and analytics:
+
+Total Portfolio Value
+Average Annual Rent
+Average Rent per Sqft
+Total Active Listings
+Demand Index
+Listing Age Analysis
+
+File:
+
+DAX Measures
 
 ---
 
