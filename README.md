@@ -41,7 +41,7 @@ real-estate-rental-market-intelligence/
 │   └── data_dictionary.md
 │
 ├── dashboard/
-│   └── BA Real Estate Project.pbix
+└── BA Real Estate Project.pbix
 │
 ├── docs/
 │   ├── BA_Real_Estate_Project_Report.pdf
