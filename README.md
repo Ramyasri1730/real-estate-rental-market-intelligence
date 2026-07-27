@@ -70,7 +70,6 @@ real-estate-rental-market-intelligence/
 ---
 
 # 📊 Dashboard Features
-# 📷 Dashboard Preview
 
 ## Dashboard Home
 
