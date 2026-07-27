@@ -181,7 +181,7 @@ Power BI report developed to analyze UAE rental market trends, property performa
 
 File:
 
-- [Open Power BI Dashboard](dashboard/BA_Real_Estate_Project.pbix)
+[View Power BI Dashboard File](dashboard/BA_Real_Estate_Project.pbix)
 
 ---
 
@@ -193,6 +193,14 @@ File:
 4. Review the project documentation in the `docs` folder.
 5. Explore the interactive dashboard.
 
+---
+# 🚀 Project Highlights
+
+- Analyzed 73,742 rental property records.
+- Built interactive Power BI dashboards for rental intelligence.
+- Developed SQL queries for market analysis and investment filtering.
+- Created DAX measures for KPI reporting.
+- Identified rental trends, pricing efficiency, and investment opportunities.
 ---
 
 # ⭐ Skills Demonstrated
