@@ -71,6 +71,8 @@ real-estate-rental-market-intelligence/
 
 # 📊 Dashboard Features
 
+# 📊 Dashboard Features
+
 - Executive KPI Dashboard
 - Rental Market Analysis
 - Geographic Location Intelligence
@@ -80,7 +82,15 @@ real-estate-rental-market-intelligence/
 - Furnishing Analysis
 - Interactive Filters & Drill-through
 
----
+
+# 📊 Power BI Dashboard
+
+Power BI report developed to analyze UAE rental market trends, property performance, rental efficiency, and investment opportunities.
+
+File:
+
+[Open Power BI Dashboard](dashboard/BA_Real_Estate_Project.pbix)
+
 
 # 📈 Key Performance Indicators (KPIs)
 
@@ -90,23 +100,6 @@ real-estate-rental-market-intelligence/
 - Total Active Listings
 - Average Listing Age
 - Demand Index
-
----
-
-# 📷 Dashboard Preview
-
-## Dashboard Home
-
-![Dashboard Home](assets/dashboard_home.png)
-
-## Executive Dashboard
-
-![Executive Dashboard](assets/executive_dashboard.png)
-
-## Location Intelligence Dashboard
-
-![Location Intelligence Dashboard](assets/location_intelligence.png)
-
 ---
 
 # 📁 Dataset
