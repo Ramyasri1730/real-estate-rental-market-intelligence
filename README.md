@@ -41,13 +41,13 @@ real-estate-rental-market-intelligence/
 │   └── data_dictionary.md
 │
 ├── dashboard/
-└── BA_Real_Estate_Project.pbix
+│   └── BA_Real_Estate_Project.pbix
 │
 ├── docs/
-├── BA_Real_Estate_Project_Report.pdf
-├── BRD_Summary.md
-├── FRD_Summary.md
-└── Business_Questions_Answers.md
+│   ├── BA_Real_Estate_Project_Report.pdf
+│   ├── BRD_Summary.md
+│   ├── FRD_Summary.md
+│   └── Business_Questions_Answers.md
 │
 ├── sql/
 │   ├── create_table.sql
@@ -70,22 +70,20 @@ real-estate-rental-market-intelligence/
 ---
 
 # 📊 Dashboard Features
-- Executive KPI Dashboard
-- Rental Market Analysis
-- Geographic Location Intelligence
-- Rental Price Analysis
-- Property Size Distribution
-- Listing Age Analysis
-- Furnishing Analysis
-- Interactive Filters & Drill-through
+# 📷 Dashboard Preview
 
+## Dashboard Home
 
-# 📊 Power BI Dashboard
-Power BI report developed to analyze UAE rental market trends, property performance, rental efficiency, and investment opportunities.
+![Dashboard Home](assets/dashboard_home.png)
 
-File:
+## Executive Dashboard
 
-[Open Power BI Dashboard](dashboard/BA_Real_Estate_Project.pbix)
+![Executive Dashboard](assets/executive_dashboard.png)
+
+## Location Intelligence Dashboard
+
+![Location Intelligence Dashboard](assets/location_intelligence.png)
+
 
 # 📈 Key Performance Indicators (KPIs)
 
