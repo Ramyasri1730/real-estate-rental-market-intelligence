@@ -37,7 +37,7 @@ real-estate-rental-market-intelligence/
 
 │
 ├── data/
-│   ├── dubai_properties_data.xlsx
+│   ├── Abu Dhabi _properties_data.xlsx
 │   └── data_dictionary.md
 │
 ├── dashboard/
@@ -225,7 +225,7 @@ File:
 
 ✔ Which property types provide better investment opportunities?
 
-✔ How does rental price vary across Dubai communities?
+✔ How does rental price vary across Abu Dhabi communities?
 
 
 For detailed analysis:
