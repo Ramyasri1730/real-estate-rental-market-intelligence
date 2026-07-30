@@ -1,5 +1,5 @@
 BUSINESS QUESTIONS & ANALYSIS ANSWERS 
-1 Which locations have the highest rental demand? 
+1. Which locations have the highest rental demand? 
 Answer:
 The analysis identifies locations with higher rental activity by evaluating:
 - Number of active listings
@@ -9,7 +9,7 @@ The analysis identifies locations with higher rental activity by evaluating:
 High-demand locations show a strong combination of property availability, rental value, and market activity.
 The location intelligence dashboard helps stakeholders compare rental performance across different communities.
 
-2 What factors influence rental pricing? 
+2. What factors influence rental pricing? 
 Answer:
 Rental pricing is influenced by multiple property attributes:
 - Location
@@ -20,7 +20,7 @@ Rental pricing is influenced by multiple property attributes:
 - Market demand
 Properties in premium locations and larger property categories generally show higher rental values.
 
-3 Which property types provide better investment opportunities? 
+3. Which property types provide better investment opportunities? 
 Answer:
 Property investment opportunities are evaluated based on:
 - Rental income potential
@@ -29,7 +29,7 @@ Property investment opportunities are evaluated based on:
 - Listing performance
 The analysis helps identify property categories that provide better rental efficiency and investment potential.
 
-4 How does rental price vary across Abu Dhabi communities? 
+4. How does rental price vary across Abu Dhabi communities? 
 Answer:
 Rental prices vary significantly across locations due to:
 - Community popularity
@@ -47,12 +47,12 @@ Properties are evaluated by comparing:
 - Location averages
 Properties with lower rent per Sqft compared to similar properties may represent potential investment opportunities, while significantly higher values may indicate premium pricing.
 
-6 What is the impact of furnishing status on rental value? 
+6. What is the impact of furnishing status on rental value? 
 Answer:
 Furnished properties generally demonstrate different rental pricing patterns compared with unfurnished properties.
 The analysis compares rental values by furnishing category to understand its impact on rental performance.
 
-7 How can investors use this dashboard? 
+7. How can investors use this dashboard? 
 Answer:
 Investors can use the dashboard to:
 - Identify profitable locations
