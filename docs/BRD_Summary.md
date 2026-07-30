@@ -4,7 +4,7 @@ BUSINESS REQUIREMENT DOCUMENT (BRD)
 Right now, real estate investors, brokers, and property consultants in Abu Dhabi have a hard time checking if a rental property is actually a good deal. Most agencies rely on gut feeling, scattered spreadsheets, or incomplete property lists because they do not have a shared, data-backed system.
 This manual approach causes a few major problems in everyday business operations: 
 
-- **No Clear Standards: **It is hard to compare different neighbourhoods side-by-side to see where rent is actually fair compared to the physical size of the property.
+- **No Clear Standards**: It is hard to compare different neighbourhoods side-by-side to see where rent is actually fair compared to the physical size of the property.
 
 -** Overpricing and Missed Opportunities:** Agents often market properties that are way overpriced without realizing it, or they miss out on great, underpriced deals that would give their clients an excellent return on investment (ROI).
 
