@@ -1,12 +1,12 @@
 FUNCTIONAL REQUIREMENT DOCUMENT (FRD)
- **Functional Overview **
+Functional Overview 
 The system provides an interactive Business Intelligence dashboard that
 enables users to analyse Abu Dhabi rental property data.
 
 The solution combines data preparation, SQL analysis, and Power BI
 visualization to deliver actionable insights.
 --------------------------------------------------------------------------------------------------------------------------------------
-** Data Requirements **
+Data Requirements
 The dashboard uses rental property data containing:
 -   Property Address
 -   City
@@ -22,7 +22,7 @@ The dashboard uses rental property data containing:
 -   Latitude
 -   Longitude
 --------------------------------------------------------------------------------------------------------------------------------------
-    **Dashboard Requirements** 
+    Dashboard Requirements
     1. Executive Dashboard 
     Features:
 -   Total Portfolio Value
@@ -47,7 +47,7 @@ The dashboard uses rental property data containing:
 -   Furnishing impact analysis
 -   Listing age analysis
 --------------------------------------------------------------------------------------------------------------------------------------
-    **Data Processing Requirements** 
+    Data Processing Requirements
     The solution should support:
 -   Data cleaning
 -   Data transformation
@@ -63,7 +63,7 @@ The dashboard uses rental property data containing:
 -   DAX
 -   GitHub
 --------------------------------------------------------------------------------------------------------------------------------------
-    **User Requirements**
+    User Requirements
     Users should be able to:
 -   Filter data interactively
 -   Compare properties
@@ -71,14 +71,14 @@ The dashboard uses rental property data containing:
 -   Identify investment opportunities
 -   Export insights for decision-making
 --------------------------------------------------------------------------------------------------------------------------------------
-    **Performance Requirements**                                                                                                                             
+    Performance Requirements                                                                                                                            
     The dashboard should:
 -   Load efficiently
 -   Provide accurate calculations
 -   Display interactive visuals
 -   Support multiple analytical views                                                                                                                                                                    
 --------------------------------------------------------------------------------------------------------------------------------------
-    **Success Criteria **                                                                                                                                                            
+    Success Criteria                                                                                                                                                           
     The project is successful when users can:
 -   Understand rental market trends
 -   Identify valuable locations
