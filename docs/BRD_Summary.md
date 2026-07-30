@@ -1,4 +1,5 @@
 BUSINESS REQUIREMENT DOCUMENT (BRD)
+
 1.1 Problem Statement
 Right now, real estate investors, brokers, and property consultants in Abu Dhabi have a hard time checking if a rental property is actually a good deal. Most agencies rely on gut feeling, scattered spreadsheets, or incomplete property lists because they do not have a shared, data-backed system.
 This manual approach causes a few major problems in everyday business operations: 
